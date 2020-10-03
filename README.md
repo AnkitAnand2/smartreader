@@ -16,8 +16,7 @@ Smartreader is a Python library for for converting and PDF content to Speech .
 
 >conda install git
 
->Use the package manager> [pip] install git+https://AnkitAnand2@bitbucket.org/AnkitAnand2/weather_api_call  #to install weather_py
-
+>Use the package manager> [pip] install git+https://github.com/AnkitAnand2/smartreader #to install Smartreader
 >conda deactivate# To deactivate virtual environment
 
 >conda env remove -n yourenvname #To remove any environment permanently.
@@ -25,7 +24,7 @@ Smartreader is a Python library for for converting and PDF content to Speech .
 
 ## Normal installation:
 
-Use the package manager [pip] install git+https://AnkitAnand2@bitbucket.org/AnkitAnand2/weather_api_call to install weather_py
+Use the package manager [pip] install git+https://github.com/AnkitAnand2/smartreader.git to install Smartreader
 
 ## Installation using .rar file:
 
